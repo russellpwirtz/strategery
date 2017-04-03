@@ -6,7 +6,7 @@ Stratego-based game made with [libGdx](http://www.libgdx.com/) and using the ext
 - [Box2DLights](https://github.com/libgdx/box2dlights) for visual effects
 
 
-![screenshot](https://github.com/russellpwirtz/strategery/raw/master/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/russellpwirtz/strategery/master/screenshot.JPG)
 
 ## Controls:
 
