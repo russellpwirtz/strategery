@@ -1,0 +1,97 @@
+
+pack.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0-enemy
+  rotate: false
+  xy: 118, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+1-marshal
+  rotate: false
+  xy: 166, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+2-general
+  rotate: false
+  xy: 214, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+3-colonel
+  rotate: false
+  xy: 262, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+4-major
+  rotate: false
+  xy: 310, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+5-captain
+  rotate: false
+  xy: 358, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+6-lieutenant
+  rotate: false
+  xy: 406, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+7-sargeant
+  rotate: false
+  xy: 454, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+8-miner
+  rotate: false
+  xy: 2, 20
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+9-scout
+  rotate: false
+  xy: 502, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 52, 36
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+spy
+  rotate: false
+  xy: 550, 20
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+pack.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+count
+  rotate: false
+  xy: 2, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+frank
+  rotate: false
+  xy: 52, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+mummy
+  rotate: false
+  xy: 102, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+swamp
+  rotate: false
+  xy: 152, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 202, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
